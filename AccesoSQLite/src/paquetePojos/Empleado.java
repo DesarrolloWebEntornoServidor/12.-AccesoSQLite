@@ -15,7 +15,6 @@ public class Empleado {
 		super();
 	}
 
-
 	public Empleado(int empno, String ename, String job, Date hiredate,
 			float sal, float comm) {
 		super();
